@@ -16,6 +16,10 @@ public class Main {
         neon.size="44";
         neon.quantity="5";
 
+Color col=new Color();
+col.colorLights="true";
+col.colorTire="false";
+col.colorWindows="true";
 
 
 
