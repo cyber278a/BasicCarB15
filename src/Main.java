@@ -14,6 +14,7 @@ public class Main {
         neon.color="red";
         neon.intensity="7886l";
         neon.size="44";
+        neon.quantity="5";
 
 
 

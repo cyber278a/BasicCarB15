@@ -1,0 +1,59 @@
+*********************class 07*******************
+****************************
+Branches
+***************************
+Project:
+Devlope the car:
+Sceanrio:
+Teamlead:
+Create a simple strucutre of a car
+and get it deployed on the main branch.
+Naveed:-->
+Approach:
+1. create the code
+2. commit it in local
+3. push it to github
+branch -->Main
+-------------------------------------------------
+to mergeon local or on gihtub
+do this on github
+work on the feature
+engine
+appraoch:
+1. clone
+2. create a new branch
+3. change the code (add feature)
+4. commit it
+5. push the branch to github
+6. Open the pull request
+7. merge the code on github
+---------once the code is merged on github in the mian branch--- do u need
+the updated code on your computer/local???
+U always want to have the most updated main branch
+1. switch to main
+2. git fetch --> to cehck for updates
+3. git pull --> to get the updates...
+-----------------------------------------------------
+Scenario:
+Hamid--->hey hamid work on the feature of lights
+zahra ---> hey zahra work on the feature color scheme
+As hamid is contniuing to wrok
+Hamid:
+1. hamid will switch to main branch and check for updates (git fetch)
+2. if there are any updates he must pull them (git pull)
+3. create a new branch
+4. write code
+5. commit and push
+6. pull request.
+As being zahra:
+1. clone
+2. create a new branch
+3. write code
+4. commit and push
+5. open a pull reuqest
+---------------------------------------------------------------
+:::::::
+mege conflict how they occur.
+---> talk tmrw
+regular git classs.
+no review is going to bethere of git
