@@ -9,6 +9,9 @@ public class Main {
         X.size="8";
         X.size="234565";
         X.weight="65544y";
+
+
+
         
     }
 }
